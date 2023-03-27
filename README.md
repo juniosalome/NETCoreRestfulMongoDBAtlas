@@ -50,8 +50,8 @@ appsettings.json
 ´´´
 
 # Criar uma base de dados
-- Database name: ordersDb
-- Collection Name:  orders
+- Database name: sample_mflix
+- Collection Name:  playlist
 
 # Rodar o projeto
 
