@@ -10,8 +10,8 @@ Projeto simples criando uma API C# restful e utilizando MongoDB Atlas.
 - C#
 - MongoDB Atlas
 
-## Pré-requisitos
-#  Iniciar C#
+# Pré-requisitos
+##  Iniciar C#
 
 Caso usar ctrl-c + ctrl-v
 Dentro da pasta do projeto
@@ -22,7 +22,7 @@ dotnet add package mongocsharpdriver
 dotnet add NAME_YOUR_FILE.csproj package Swashbuckle.AspNetCore
 ```
 
-# Adicionar
+## Adicionar
 appsettings.json
 
 ´´´
@@ -49,7 +49,7 @@ appsettings.json
 
 ´´´
 
-# Criar uma base de dados
+## Criar uma base de dados
 - Database name: sample_mflix
 - Collection Name:  playlist
 
